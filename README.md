@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm always availble to collaberate on projects! Check me out at [link to codedad](codedad.ca) or contact me directly at richard@codedad.ca
+I'm always availble to collaberate on projects! Check me out at [codedad.ca](codedad.ca) or contact me directly at richard@codedad.ca
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
