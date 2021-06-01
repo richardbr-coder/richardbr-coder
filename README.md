@@ -5,3 +5,7 @@
 #### 🔭 I’m currently working on an MVC web app, its a private social platform repo
 
 #### Some of my live demo projects
+
+<!-- Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png) -->
