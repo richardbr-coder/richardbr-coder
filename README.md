@@ -2,6 +2,7 @@
 
 #### I'm always available to collaberate on projects! Check me out at [codedad.ca](codedad.ca) or contact me directly at richard@codedad.ca
 
+#### 🔭 Working on an arduino powered submarine, code is largely C/C++ 
 #### 🔭 I’m currently working on an MVC web app and a database API
 
 <!--
