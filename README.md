@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm always available to collaberate on projects! Check me out at [codedad.ca](codedad.ca) or contact me directly at richard@codedad.ca
+#### I'm always available to collaberate on projects! Check me out at [richardrandell.ca](richardrandell.ca)
 
 ### Primary
 #### 🔭 Automated 3d printing codebase
