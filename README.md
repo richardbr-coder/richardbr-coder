@@ -1,24 +1,22 @@
-### Hi there 👋
+  <summary> <samp>📈 GitHub stats</samp></summary>
+<br/>
 
-#### I'm always available to collaberate on projects! Check me out at [richardrandell.ca](richardrandell.ca)
+![Richard Randell GitHub stats](https://github-readme-stats.vercel.app/api?username=richardrandell&count_private=true&show_icons=true)
+![Richard Randell GitHub stats](https://github-readme-stats.vercel.app/api?username=richardrandell&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
-### Primary
-#### 🔭 Automated 3d printing codebase
+</details>
 
+<details>
+    <summary> <samp>📝 Programming Languages</samp></summary>
+<br/>
 
-### Secondary
-#### 🔭 MVC, laravel, php stuff
+![Richard Randell GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardrandell&langs_count=10&layout=compact)
+![Richard Randell Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=richardrandell&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
-<!--
-<p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
+</details>
 
-#### Some of my live demo projects
+If you use any of my projects, a monthly sponsorship would mean a lot and make my open-source work sustainable.
+If you use my open-source projects, please consider sponsoring so that I can continue maintaining them and keeping them secure.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png) 
--->
+[![https://github.com/sponsors/richardrandell](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/richardrandell)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:info@richardrandell.ca)
